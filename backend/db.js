@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
 
-var mongoDBURL = 'mongodb+srv://athif:Ryzenathif@cluster0.t5pyu.mongodb.net/mern-ecommerce'
+var mongoDBURL = process.env.MONGODB_URL
 
 mongoose.connect(mongoDBURL , {useUnifiedTopology:true , useNewUrlParser:true})
 

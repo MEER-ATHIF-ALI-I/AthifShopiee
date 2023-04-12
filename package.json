@@ -3,10 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "engines": {
-    "node": "16.8.0",
-    "npm": "8.3.0"
-  },
+ 
   "scripts": {
     "frontend-install": "npm install --prefix frontend",
     "server": "nodemon backend/server.js",

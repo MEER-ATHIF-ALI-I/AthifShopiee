@@ -4,4 +4,4 @@ stage management, nodejs for backend and MONGODB for database
 
 </br>
 
-Heroku-link:  https://mern-athifshopiee.herokuapp.com/
+Heroku-link:  https://mern-athif-shopiee.vercel.app/
